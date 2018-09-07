@@ -1,0 +1,12 @@
+
+.error1  input[type="text"]{
+    border-top:2px solid red;
+    border-bottom:2px solid red;
+    border-left:2px solid red;
+}
+
+.error1  input[type="button"]{
+    border-top:2px solid red;
+    border-bottom:2px solid red;
+    border-right:2px solid red;
+}
